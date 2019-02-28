@@ -1,0 +1,21 @@
+The matrix of SLAE:
+3.0 1.0 0.0 
+1.0 4.0 1.0 
+0.0 1.0 5.0 
+
+The vector of right side of SLAE:
+1.0
+1.0
+1.0
+
+The vector of initial data:
+0.0
+0.0
+0.0
+
+The vector of solution accurate to 0.001 of SLAE:
+0.2884140014648436
+0.13460350055932974
+0.1730175020241733
+
+The number of iterations: 10
